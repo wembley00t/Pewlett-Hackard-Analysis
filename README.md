@@ -33,3 +33,11 @@ organization.  There does not appear to be enough employees ready to step into t
 mentorship analysis showing only 1,549 eligible for the program.
 
 Two additional queries to provide more insight into the "silver tsunami" are shown below.
+
+![Additional query](https://user-images.githubusercontent.com/100876517/167326459-dd555df6-b7c4-4759-8bd0-a50b2383c7fd.png)
+
+The result of this query show there are 21,209 employees with the birth date in 1952 or the first year of the "silver 
+tsunami" to help the organization prepare by year.
+
+The original mentorship eligibility was based on birthdates in 1965.  The query can be expanded to birthdates from 1965 to 1970.
+The results of this modification show 
