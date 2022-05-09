@@ -17,3 +17,9 @@ future.
 The second table shows the number of employees eligible for the mentorship program.
 
 ![mentorship](https://user-images.githubusercontent.com/100876517/167323830-f71ae844-241c-472a-9b6e-c3cbb269e4a7.png)
+
+* Table 1 reflects there are 72,458 employees retiring in the near future over 7 job titles.
+* Table 1 reflects that 70% of the employees retiring are in the Senior Engineer or Senior Staff role.
+* Table 2 reflects there are 1,549 employees eligible for the mentorship program.  This is 2% of the total
+  retiring titles.
+* Table 2 reflects 6 job titles eligible for the mentorship program.
