@@ -20,7 +20,16 @@ The second table shows the number of employees eligible for the mentorship progr
 ![mentorship](https://user-images.githubusercontent.com/100876517/167323830-f71ae844-241c-472a-9b6e-c3cbb269e4a7.png)
 
 * Table 1 reflects there are 72,458 employees retiring in the near future over 7 job titles.
-* Table 1 reflects that 70% of the employees retiring are in the Senior Engineer or Senior Staff role.
+* Table 1 reflects that 70% of the employees retiring are in the Senior Engineer or Senior Staff role.  This is a 
+  significant number of resources and a large risk for the company to fill the knowledge gap.
 * Table 2 reflects there are 1,549 employees eligible for the mentorship program.  This is 2% of the total
   retiring titles.
 * Table 2 reflects 6 job titles eligible for the mentorship program.
+
+## Summary
+
+In summary, there are 72,458 roles that will need to be filled as the "silver tsunami" begins to impact the
+organization.  There does not appear to be enough employees ready to step into these roles based on the
+mentorship analysis showing only 1,549 eligible for the program.
+
+Two additional queries to provide more insight into the "silver tsunami" are shown below.
