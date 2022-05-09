@@ -42,11 +42,12 @@ The result of this query show there are 21,209 employees with the birth date in 
 tsunami" to help the organization prepare by year.
 
 The original mentorship eligibility was based on birthdates in 1965.  The organization may want to consider employees
-eligible for mentorship in 1964 as well to provide a larger employee population for mentorship.
+eligible for mentorship with birthdates in 1964 as well to provide a larger employee population for mentorship.
 
 The query below is the updated query to include 1964 and 1965 in the mentorship eligibility category.
 
 ![Expanded mentorship query](https://user-images.githubusercontent.com/100876517/167327651-a1321e0a-43df-4582-9cf5-232a890c8c01.png)
 
 The results of this query are below.  
+![Expand Mentorship](https://user-images.githubusercontent.com/100876517/167327981-9dc2d71c-28ea-4d5c-ab0b-b3cb4ad938c8.png)
 
