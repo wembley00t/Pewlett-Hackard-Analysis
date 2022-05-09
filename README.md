@@ -52,3 +52,6 @@ The results of this query are below.
 
 ![Expand Mentorship](https://user-images.githubusercontent.com/100876517/167328236-14087157-d385-4358-b1aa-2480d24abad7.png)
 
+By expanding the mentorship eligibility to birthdates of 1964 and 1965, the total number of employees eligible has increased by
+18,356 and in the much needed categories of Senior Engineer and Senior Staff.
+
