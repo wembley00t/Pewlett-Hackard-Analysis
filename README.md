@@ -49,5 +49,6 @@ The query below is the updated query to include 1964 and 1965 in the mentorship 
 ![Expanded mentorship query](https://user-images.githubusercontent.com/100876517/167327651-a1321e0a-43df-4582-9cf5-232a890c8c01.png)
 
 The results of this query are below.  
-![Expand Mentorship](https://user-images.githubusercontent.com/100876517/167327981-9dc2d71c-28ea-4d5c-ab0b-b3cb4ad938c8.png)
+
+![Expand Mentorship](https://user-images.githubusercontent.com/100876517/167328236-14087157-d385-4358-b1aa-2480d24abad7.png)
 
